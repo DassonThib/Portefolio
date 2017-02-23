@@ -316,6 +316,17 @@ a:focus {
  text-align: justify;
 }
 
+/************** Style footer **************/
+
+#footer p {
+    font-size: 18px;
+    text-align: center;
+}
+#footer i.fa {
+    font-size: 30px;
+    width: 30px;
+}
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */

@@ -1,6 +1,6 @@
-# Portefolio
+# Portfolio
 
-Site portefolio (HTML5 / CSS3) responsive via l'utilisation du framework Bootstrap.
+Site portfolio (HTML5 / CSS3) responsive via l'utilisation du framework Bootstrap.
 
 Lien vers le tuto :
 
